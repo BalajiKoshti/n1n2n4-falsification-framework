@@ -1,0 +1,4 @@
+﻿section,case,headline,result
+P1,P1_structural_synthPASS,abs_C4_real=0.019821,PASS_directional_controls
+P2/P5,4 negative/adversarial cases,3 FAIL,expected rejection
+P4,Ramsey hero,6/8 audit PASS,majority PASS
